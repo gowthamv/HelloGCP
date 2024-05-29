@@ -1,2 +1,2 @@
 # HelloGCP
-GCP Test in Branch
+GCP Connectivity
